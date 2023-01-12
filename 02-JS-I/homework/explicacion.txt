@@ -1,0 +1,5 @@
+Variables: Una variable es un espacio donde almacenamos un dato (var espacio = dato), ya sea un valor numerico, un string, etc. Y como dice su nombre el contenido del mismo puede variar, excepto si es una constante. 
+
+String: Son una cadena de caracteres, y siempre va entre comillas. Puede ser un numero pero si va entre comillas es un string. 
+
+Funcion: Procesa valores para dar un resultado
